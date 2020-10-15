@@ -5,7 +5,7 @@
 */
 
 var vars = {
-    file : 'index.html',
-    path : 'https://yowasap.github.io'
-    theme : 'theasys',
+    file: 'index.html',
+    path: 'https://yowasap.github.io',
+    theme: 'theasys',
 };
