@@ -6,6 +6,6 @@
 
 var vars = {
     file : 'index.html',
-    path : 'C:\Users\Hermione\Desktop\Museum Tour First Half PAID FOR
+    path : 'https://yowasap.github.io'
     theme : 'theasys',
 };
