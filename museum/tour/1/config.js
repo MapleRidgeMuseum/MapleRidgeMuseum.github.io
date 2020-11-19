@@ -6,6 +6,6 @@
 
 var vars = {
     file: 'index.html',
-    path: 'https://yowasap.github.io',
+    path: 'https://yowasap.github.io/museum/tour/1',
     theme: 'theasys',
 };
