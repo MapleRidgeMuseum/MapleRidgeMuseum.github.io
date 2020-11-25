@@ -1,11 +1,11 @@
 /*
 * Theasys
-* Generated on: Wednesday 18th of November 2020 08:30:14 PM
+* Generated on: Wednesday 25th of November 2020 05:20:12 PM
 * Config file: You can change the path to match your server path.
 */
 
 var vars = {
-    file: 'index.html',
-    path: 'https://yowasap.github.io/museum/tour/2',
-    theme: 'theasys',
+    file : 'index.html',
+    path : 'http://localhost',//path to the index.html
+    theme : 'theasys',
 };
