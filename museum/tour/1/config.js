@@ -5,7 +5,7 @@
 */
 
 var vars = {
-    file : 'index.html',
-    path : 'http://localhost',//path to the index.html
-    theme : 'theasys',
+    file: 'index.html',
+    path: 'https://mapleridgemuseum.github.io/museum/tour/1',
+    theme: 'theasys',
 };
